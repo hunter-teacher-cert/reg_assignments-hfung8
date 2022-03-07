@@ -1,0 +1,8 @@
+## Equity Grading Reaction
+
+It seems like grading students can create an environment where the students are taking the course purely to get a good grade, whereas the mastery of the 
+subject should be their goal. This is something that is concerning for me because if a student has an A level of understanding but winds up getting a B in the 
+course, due to life occurences, then there is some misrepresentation of the student's true capabilities. The podcast highlights this point with a few other 
+additional thoughts, which suggest that students from less privileged backgrounds do not seem to get that turning something in late, should be allowable and not 
+punished. This is a good point, most of the time the focus is on the students who are understanding the material and who speak up the most in class, yet there are
+many students that are capable yet do not speak up because they are either shy or feel awkward. Creating this environment where students are not discriminated based on level of privilege and also capacity to speak up in class, is what the work in college is about because it prepares the students to take on the professional world eventually. Like the podcast highlighted, if an assignment is late in the professional world, the boss might ask what can we do to ensure that you're work is done on time, seeing that there are many people who depend on it. Rather than punish the employee, there is a conversation about making deadline in a positive way. Teachers should mimic the trueness of the professional world rather than depending on the same syllabus that had been created too many years ago. 
