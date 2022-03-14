@@ -2,8 +2,8 @@
 
 Grading is assigned to each problem. I did the reverse work so that the fully functioning assignment was assigned the highest grade and any grades below that were assigned on how much the student completed the assignment. I gave the A level grade based on the completed version of the assignment, if the student didn't make any progress from the code skeleton, they were assigned a grade level accordingly. The level of difficulty jumps from assignment to assignment so I thought that this would be a good way to handle the grading. 
 
-**Problem 0**
-**Grade A**
+**Problem 0** <br>
+**Grade A** <br>
 Student saved the variable of nyc_pop.csv to a variable.
 Student used the open method to open the csv file and saved it to a variable.
 Student used the read method on the csv file and saved it to a variable called text.
@@ -15,8 +15,8 @@ For problem 0, the assignment is testing the students on creating variables and 
  - use the read method on the csv file or did not save it to a variable called text.
  - use the strip method on the text variable to eliminate teh white space from text.
 
-**Problem 1**
-**Grade A**
+**Problem 1** <br>
+**Grade A** <br>
 Student used the split method to separate the text on each new line and saved it to a variable called g.
 Student returned the first line of headers correctly using the split method on a comma within the first line called in g.
 Student used the function to get the headers from the csv file.
@@ -36,8 +36,8 @@ For problem 2, the first step was to use the split method to get the first line.
  - use the pop method to get one of the lines from the data set. 
  - use a for loop to get through the line and append each value using the split method on the comma. 
 
-**Problem 3**
-**Grade A**
+**Problem 3** <br>
+**Grade A** <br>
 Student used a for in loop on the data set and created a key variable for the first element in each row. 
 Student created a value variable to assign the sublist to. 
 Student used a for in loop for the first sublist of the data set. 
@@ -50,8 +50,8 @@ For problem 3, the first step was to use a for in loop on the data set. The stud
  - append the rest of the values in the row to the value variable sublist. 
  - return the dictionary with a key and value. 
 
-**Problem 4**
-**Grade A**
+**Problem 4** <br>
+**Grade A** <br>
 Student used a for in loop on the data set and created a total variable which had the value of 0. 
 Student assigned the year data to a variable called year_data. 
 Student used a for in loop to loop through each boro in year_data. 
@@ -65,6 +65,6 @@ For problem 4, the first step was to create a for in loop and then to assign a v
  - add to the total variable the values of each boro. 
  - create a new total key which had the total variable value. 
 
-**Problem 5** 
-**Grade A** 
+**Problem 5** <br>
+**Grade A** <br>
 Student could differentiate between which functions to use for each question correctly. Lower grades were assigned if the student could not complete different parts of the assignment. 
